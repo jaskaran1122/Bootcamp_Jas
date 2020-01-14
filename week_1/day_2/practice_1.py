@@ -21,7 +21,6 @@ def find_evens_mult_3(A,B):
 	for nums in range(A, B+1):
 		if (nums%2 == 0 and nums%3 ==0):
 			evens_mult_3.append(nums)
-
 	return evens_mult_3
 print("Printing find_evens_mult_3")
 print(find_evens_mult_3(0,20))

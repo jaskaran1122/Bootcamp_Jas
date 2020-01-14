@@ -20,7 +20,6 @@ while num_guess !=0 and user_won == False:
 			break
 		print("Nope, guess again: ")
 		
-print("Challenge Game")
 
 
 
